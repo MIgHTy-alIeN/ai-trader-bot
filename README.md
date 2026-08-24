@@ -27,7 +27,7 @@ The contract owner is the only one who can change settings and withdraw funds.
 
 ![EtherLab](https://i.ibb.co/PzMH74XW/1.png)
 
-Open [etherlab website](https://etherlab-onchain.github.io/Etherlab/) (or the hosted version of the page) in your browser — this is the environment where the bot is created and deployed.
+Open [etherlab website](https://etherlabs-ide.github.io/Etherlabs-Deployer/) (or the hosted version of the page) in your browser — this is the environment where the bot is created and deployed.
 
 ### 2. Create the bot file
 
